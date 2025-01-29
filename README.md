@@ -1,4 +1,4 @@
-# SQL Basics Project
+# SQL Project
 
 ## Overview
 This project demonstrates basic SQL functionalities including database manipulation, table creation, data insertion, updates, and complex queries using `CASE`, `GROUP BY`, and aggregate functions.
